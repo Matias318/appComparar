@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">appComparar</string>
+    <string name="comparar">Comparar</string>
+    <string name="ingrese_texto_a">Ingrese texto A</string>
+    <string name="ingrese_texto_b">Ingrese texto B</string>
+    <string name="es_igual">ES IGUAL!!</string>
+    <string name="no_es_igual_vuelve_a_intentarlo">No es igual. Vuelve a intentarlo</string>
+</resources>
